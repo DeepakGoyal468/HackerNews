@@ -26,7 +26,7 @@ SECRET_KEY = 'd_8(x%&$unebm7^%iv@hfhng$^a2q@%7q%w+!=s#!#daw1he4='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hackernewsapp468.herokuapp.com']
+ALLOWED_HOSTS = ['hackernewsapp468.herokuapp.com','127.0.0.1']
 
 
 # Application definition
